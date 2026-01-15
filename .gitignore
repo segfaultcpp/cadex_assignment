@@ -1,0 +1,9 @@
+*build*/
+.idea/
+.cache/
+.direnv/
+.vs/
+/resources/
+/out/
+*.log
+/CMakeSettings.json
